@@ -23,6 +23,13 @@ Cleaned dataset stored in a MySQL database.
 Interactive dashboard to visualize key statistics.
 ✅ GitHub Repository:
 Python scripts, SQL schema, and Power BI files with a structured README.md.
+![NBA Pg1](https://github.com/user-attachments/assets/ee0bacfb-d849-4392-b28b-3ee38152ab55)
+
+![NBA pg 3](https://github.com/user-attachments/assets/e277bef7-cb3c-45f2-817f-55c399d7f600)
+
+![NBA pg 2](https://github.com/user-attachments/assets/fbb75564-26db-4d59-95c3-14c7258b4a02)
+
+
 
 # ⚡ Technology Stack
  Programming Language: Python (Pandas, NumPy, Matplotlib, Seaborn)
