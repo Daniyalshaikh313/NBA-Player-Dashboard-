@@ -1,4 +1,6 @@
 # NBA-Player-Dashboard-
+![dashboard](https://github.com/user-attachments/assets/399be91c-71e5-440b-9fc0-3a8e48fbde1f)
+
 ## 📚 Project Overview
 This project analyzes NBA player statistics, performs data cleaning, and extracts valuable insights through Exploratory Data Analysis (EDA). The objective is to compare player and team performances, integrate the cleaned dataset into an SQL database, and create an interactive Power BI dashboard to visualize player and team statistics effectively.
 
