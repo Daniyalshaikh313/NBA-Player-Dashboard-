@@ -11,18 +11,18 @@ Load cleaned data into an SQL database for querying and insights.
 Build an interactive Power BI dashboard for visualizing key insights.
 
 # 📊 Key Deliverables
- ✅ Data Analysis Report:
- Summary of EDA insights with visualizations.
- ✅ Player Comparisons:
- Detailed comparison of selected players.
- ✅ Team Performance Analysis:
- Insights into top-performing teams.
- ✅ SQL Database:
- Cleaned dataset stored in a MySQL database.
- ✅ Power BI Dashboard:
- Interactive dashboard to visualize key statistics.
- ✅ GitHub Repository:
- Python scripts, SQL schema, and Power BI files with a structured README.md.
+✅ Data Analysis Report:
+Summary of EDA insights with visualizations.
+✅ Player Comparisons:
+Detailed comparison of selected players.
+✅ Team Performance Analysis:
+Insights into top-performing teams.
+✅ SQL Database:
+Cleaned dataset stored in a MySQL database.
+✅ Power BI Dashboard:
+Interactive dashboard to visualize key statistics.
+✅ GitHub Repository:
+Python scripts, SQL schema, and Power BI files with a structured README.md.
 
 # ⚡ Technology Stack
  Programming Language: Python (Pandas, NumPy, Matplotlib, Seaborn)
