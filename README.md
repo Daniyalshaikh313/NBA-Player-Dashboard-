@@ -30,26 +30,14 @@ Python scripts, SQL schema, and Power BI files with a structured README.md.
  Visualization Tool: Power BI
  Version Control: Git & GitHub
 
-📁 NBA-Players-Data-Analysis
- ├── 📂 Data
- │   └── nba_players_data.csv
- ├── 📂 Notebooks
- │   └── nba_data_analysis.ipynb
- ├── 📂 PowerBI
- │   └── nba_dashboard.pbix
- ├── 📂 Visuals
- │   ├── player_comparison.png
- │   └── team_performance.png
- └── 📄 README.md
-
 # 📢 Power BI Dashboard Highlights
 Top Players by Performance: Visuals highlighting top performers.
 Team Comparisons: Field goal %, free throw %, and other metrics.
 Player Statistics Trends: Trends across multiple seasons.
 
 # 📧 Contact Information
-# 🔗 GitHub: DaniyalShaikh313
-# 📧 Email: daniyalsheikh3130@gmail.com
+ 🔗 GitHub: DaniyalShaikh313
+ 📧 Email: daniyalsheikh3130@gmail.com
 
 # 📢 Acknowledgments
 Kaggle for providing the NBA Players dataset.
