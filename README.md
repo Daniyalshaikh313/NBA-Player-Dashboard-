@@ -11,7 +11,7 @@ Load cleaned data into an SQL database for querying and insights.
 Build an interactive Power BI dashboard for visualizing key insights.
 
 # 📊 Key Deliverables
-✅ Data Analysis Report:
+  ✅ Data Analysis Report:
 Summary of EDA insights with visualizations.
 ✅ Player Comparisons:
 Detailed comparison of selected players.
